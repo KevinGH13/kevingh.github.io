@@ -1,4 +1,4 @@
-baseURL = "kevingh.github.io"
+baseURL = "https://kevingh.github.io/"
 languageCode = "en-es"
 title = "KevinGH"
 theme = "hermit"
