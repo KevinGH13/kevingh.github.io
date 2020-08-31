@@ -1,0 +1,4 @@
+baseURL = "kevingh.github.io"
+languageCode = "en-es"
+title = "KevinGH"
+theme = "hermit"
